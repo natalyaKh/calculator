@@ -1,3 +1,6 @@
+Example of BackPolandNotation - examples on calculator
+This is two version of calculators.
+
 This is teo version of calculator
 
 First version was build with using Reverse Polish notation and algoritm Dekster for reading at Stack
